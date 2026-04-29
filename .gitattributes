@@ -6,5 +6,5 @@
 # **/Library/** linguist-vendored
 
 **/Packages/** linguist-vendored
-# **/ProjectSettings/** linguist-generated
+**/ProjectSettings/** linguist-generated
 # **/UserSettings/** linguist-generated
