@@ -8,11 +8,7 @@
 **/ProjectSettings/** linguist-generated
 **/UserSettings/** linguist-generated
 
-# 2. Ignorar plugins y assets oficiales que Unity instala por defecto
-**/Assets/Plugins/** linguist-vendored
-**/Assets/Standard\ Assets/** linguist-vendored
-**/Assets/TextMesh\ Pro/** linguist-vendored
-**/Assets/TutorialInfo/** linguist-vendored
+
 
 # 3. (OPCIONAL) Ignorar carpetas de Assets comprados o descargados
 # Si tienes una carpeta donde guardas modelos o scripts de la Asset Store, ponla aquí:
