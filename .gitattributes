@@ -4,13 +4,4 @@
 
 # 1. Ignorar el código de paquetes y configuraciones del motor
 **/Library/** linguist-vendored
-**/Packages/** linguist-vendored
-**/ProjectSettings/** linguist-generated
-**/UserSettings/** linguist-generated
 
-
-
-# 3. (OPCIONAL) Ignorar carpetas de Assets comprados o descargados
-# Si tienes una carpeta donde guardas modelos o scripts de la Asset Store, ponla aquí:
-# **/Assets/ThirdParty/** linguist-vendored
-# **/Assets/MisAssetsComprados/** linguist-vendored
