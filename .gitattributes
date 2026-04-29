@@ -3,7 +3,7 @@
 # ==========================================
 
 # 1. Ignorar el código de paquetes y configuraciones del motor
-**/Library/** linguist-vendored
+# **/Library/** linguist-vendored
 
 # **/Packages/** linguist-vendored
 # **/ProjectSettings/** linguist-generated
