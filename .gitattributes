@@ -18,3 +18,7 @@
 # Si tienes una carpeta donde guardas modelos o scripts de la Asset Store, ponla aquí:
 # **/Assets/ThirdParty/** linguist-vendored
 # **/Assets/MisAssetsComprados/** linguist-vendored
+
+# Ignorar el ejecutable y sus carpetas de datos
+"**/Roll a ball (juego)*/**" linguist-generated
+"**/Roll a ball (juego)*" linguist-generated
